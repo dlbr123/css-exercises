@@ -1,0 +1,15 @@
+.smt {
+    background: pink; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool { 
+    font-size: 24px;
+}
+
+#smt {
+color: blue; font-size: 36px;
+}
+
+#else {
+background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
